@@ -1,8 +1,8 @@
+import HomeIntro from "../Home_Intro/Home_Intro"
+
 function Home() {
     return (
-        <>
-            <h1>Hi</h1>
-        </>
+        <HomeIntro /> 
     )
 }
 

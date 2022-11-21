@@ -7,6 +7,7 @@ import Projects from './components/layouts/Projects'
 
 // Components
 import Navbar from './components/Navbar/Navbar'
+import Light_To_Dark from './components/Light_To_Dark/Light_To_Dark'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
         <Route path='/' element={<Home />} />
         <Route path='/projects' element={<Projects />} />
       </Routes>
+      <Light_To_Dark />
    </>
   )
 }
