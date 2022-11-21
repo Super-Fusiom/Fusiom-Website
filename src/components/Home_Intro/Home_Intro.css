@@ -1,3 +1,13 @@
 h1 {
     font-family: 'Nunito', sans-serif;
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+.homeIntro {
+    display: flex;
+    flex-direction: column;
 }

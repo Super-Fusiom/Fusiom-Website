@@ -1,0 +1,10 @@
+footer {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h3 {
+    font-size:2rem;
+}
